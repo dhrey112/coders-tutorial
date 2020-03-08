@@ -1,0 +1,18 @@
+.bgpic{
+  background-image: url("../image/inter2by2.jpg");
+  background-position: : center;
+  background-size: cover;
+  background-repeat: round;
+}
+
+.p{ text-align: center;
+  font-size: 25px;
+  color: red;
+  margin: 280px;
+}
+
+.h{
+  text-align: center;
+  color: #3345ee;
+  margin: 160px;
+}
